@@ -1,0 +1,1 @@
+require Dir.glob(File.expand_path(File.join('i18n_extensions', '**', '*')))

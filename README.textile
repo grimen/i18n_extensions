@@ -1,0 +1,17 @@
+h1. I18N_EXTENSIONS
+
+_The missing Rails I18n features._
+
+h2. Features
+
+The key features are...
+
+* Localized caching support (page/action/fragment)
+
+h2. Installation
+
+<pre>sudo gem install grimen-i18n_extensions</pre>
+
+h2. License
+
+Copyright (c) Jonas Grimfelt, released under the MIT-license.
